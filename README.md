@@ -11,4 +11,4 @@ https://github.com/ChaHyeRyeong/cvproject2_leaf
 https://github.com/ChaHyeRyeong/cvproject2_semi 
 
 # 이미지캡셔닝
-cvproject2_caption 
+https://github.com/ChaHyeRyeong/cvproject2_caption 
